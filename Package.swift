@@ -16,9 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "UIAdvancedButton",
-            dependencies: []),
-        .testTarget(
-            name: "UIAdvancedButtonTests",
-            dependencies: ["UIAdvancedButton"]),
+            dependencies: [],
+            path: "./Sources")
     ]
 )
