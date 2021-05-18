@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 spec.name          = "UIAdvancedButton"
-spec.version       = "1.1.0"
+spec.version       = "1.1.1"
 spec.summary       = "An efficient and accessible button, with different styles and parameters, written in Swift 5."
 spec.homepage      = "https://github.com/stevensyp/UIAdvancedButton"
 spec.license       = { :type => "MIT", :file => "LICENSE" }
