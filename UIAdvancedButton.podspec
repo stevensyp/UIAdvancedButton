@@ -7,6 +7,6 @@ spec.license       = { :type => "MIT", :file => "LICENSE" }
 spec.author        = { "author" => "Steven Syp" }
 spec.platforms     = { :ios => "13.0" }
 spec.source        = { :git => "https://github.com/stevensyp/UIAdvancedButton.git", :tag => "#{spec.version}" }
-spec.source_files  = "Sources/UIAdvancedButton/**/*.swift"
+spec.source_files  = "UIAdvancedButton/**/*.swift"
 spec.swift_version = "5.3"
 end
